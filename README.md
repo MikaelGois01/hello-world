@@ -7,3 +7,5 @@ Durante algumas leituras, pesquisas e videoaulas ouvi falar do GitHub, algumas d
 Como um bom amante da computação em geral isso despertou minha curiosidade, e aqui estou eu criando meu primeiro repositorio.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaelGois01&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelGois01&layout=compact)](https://github.com/MikaelGois01/github-readme-stats)
+
