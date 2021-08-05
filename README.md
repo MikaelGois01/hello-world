@@ -11,5 +11,5 @@ Como um bom amante da computação em geral isso despertou minha curiosidade, e 
 
 <a href="https://github.com/MikaelGois01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikaelGois01&show_icons=true&theme=radical" style="max-width:100%;">
-  <img height="180em" src="https://github.com/MikaelGois01/github-readme-stats;langs_count=7&amp;theme=dracula" style="max-width:100%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelGois01&layout=compact" data-canonical-src="https://github.com/MikaelGois01/github-readme-stats" style="max-width:100%;">
 </a>
